@@ -1,0 +1,14 @@
+Last updated: 20 06 2017 by Daniel 
+
+Features to implement based on tutorials for volunteers, and tips for BVI
+
+1. table editor (pie chart description)
+2. nested list editor (flow charts)
+3. maths editor
+4. ability to upload multiple images
+5. places and style the tutorial should be implemented>
+comment 
+6. on BVI side, reference field for uploaded images e.g page no and book title 
+
+
+
