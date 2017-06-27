@@ -1,42 +1,68 @@
-Last updated: 21 06 2017 by Joanne
+Last updated: 26 06 2017 by Joanne
+
+I think tips 7-9 from the first section are a little bit of a stretch but if you’re okay with them, so am I!
 
 
 Tips on using IRIS:
-1. share image files gained from lecture slides, handouts
-comment in 1-2 sentence
-2. take a photo of blackboard sketches
-comment in 1-2 sentence
-3. check output image of coding
-comment in 1-2 sentence
-4. scan textbook figures using your phone
-comment in 1-2 sentence
-5. photo of experimental set up
-comment in 1-2 sentence
-6. 
-7. 
-8. 
-9. 
-10.  web plug in in the near future for all scientific content
-comment in 1-2 sentence
+1. Share image files from lectures
+	This could be from slides, handouts. Any material you are given!
 
-tips on making the most out of IRIS features:
+2. Take a photo of blackboard sketches
+	For when teachers/ lecturers write on the board.
+
+3. Checking output image of your coding
+	If you are creating graphs whilst coding, you can make sure that the right graph is being plotted. 
+
+4. Scan textbook using your phone
+	Take a photo or a screenshot of the image. 
+
+5. Photo of experimental set up
+	If you or your teacher are conducting an experiment in class, you can have the set up described to you. 
+
+6. Spot your syntax errors
+	If your code not running? Our volunteers can quickly check to see if there are any syntax errors.
+
+7. Your friends notes
+	You can ask the volunteers to transcribe your classmate’s notes. 
+ 
+8. Youtube videos
+	Take a screenshot of parts of the video
+ 
+9. Any educational content!
+	Even if it’s not for class, as long as the image is educational, we will describe it for you. 
+ 
+10. Web plug (in in the near future for all scientific content)
+If you are on a website, click our “Click-IT” button. The photo will be sent to our volunteers for a description.
+
+Tips on making the most out of IRIS features:
 1. Choose well your subject category and difficulty level, 
-Comment: so we make sure we match you 
-2. reference your image
-Comment: where is this image coming from
-3. pick subject of image
-Comment: so you can remember if multiple requests at same time
-4. be specific on what you want to know
-Comment: 
+	That way we can ensure we match you with the best possible volunteer that can help you.
+
+2. Reference your image
+	Where is this image coming from? Sometimes our volunteers may not have looked a that specific topic in a while and may require some help to refresh their memory.
+
+3. Pick subject of image
+	So you can remember which image is for what class if you receive multiple requests at same time.
+
+4. Be specific on what you want to know
+	 
 5. Leave time for volunteers 
-comment: not super fast response because of nature…
-6.  react to  to descriptions
-Explain accept, reply, reject, flag 
+	Due to the nature of the images being described, it takes a while for volunteers to describe them. Please give us time to give you a good response!
+ 
+6. React to descriptions
+	If you are not completely happy with the description, then ask for something to be explained. If the volunteer gave you a bad response then decline the description and the image will be placed back on the image pool for the volunteers. If they wrote something inappropriate then flag the response. If you are happy with what you read then accept the response. 
+
+7. Complicated Images 
+	Sometimes the images may be extremely lengthy to describe pixel by pixel and so some details may be left out. If you feel like the response is missing a few details, reply to the volunteer asking for extra details. 
+
 
 Tips on general community behaviour:
-1. be polite, volunteers take time for free 
-comment: say hi, thanks etcwith best academic…
-2. please only education content
-comment: no milk bottle
-3. take multiple photos
-Comment:
+
+1. Be polite, volunteers take time for free 
+	Say hi, thanks etc with best academic…
+
+2. Only educational content
+	The purpose of Grapheel is to help you academically. Do not submit photos that are non academic as they will not get a response (Even if it’s of your cute puppy).   
+
+3. Take multiple photos
+	If you are taking photos of a blackboard or equipment set up or anything that you will not be able to come back to please remember to take more than one photo incase the first did not come out right. 
