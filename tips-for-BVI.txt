@@ -1,11 +1,14 @@
-Last updated: 26 06 2017 by Joanne
+Last updated: 29 06 2017 by Daniel
 
-I think tips 7-9 from the first section are a little bit of a stretch but if you’re okay with them, so am I!
+J: I think tips 7-9 from the first section are a little bit of a stretch but if you’re okay with them, so am I!
+D: Great job, just a few suggestions (see comments)
 
-
-Tips on using IRIS:
+What to use IRIS for?
 1. Share image files from lectures
 	This could be from slides, handouts. Any material you are given!
+
+Comment: Feels too university related, should make it more universal by replacing ‘lectures’. May be ‘class’ or ‘lesson’ or anything more generic for a teaching session? 
+[delete comments upon change]
 
 2. Take a photo of blackboard sketches
 	For when teachers/ lecturers write on the board.
@@ -19,12 +22,18 @@ Tips on using IRIS:
 5. Photo of experimental set up
 	If you or your teacher are conducting an experiment in class, you can have the set up described to you. 
 
+Comment: include photo of readings on a measuring tool. More likely to need help with than just the set up.
+
 6. Spot your syntax errors
 	If your code not running? Our volunteers can quickly check to see if there are any syntax errors.
+
+Comment: ‘… syntax errors highlighted in colour’
 
 7. Your friends notes
 	You can ask the volunteers to transcribe your classmate’s notes. 
  
+Comment: Too much to ask from IRIS volunteers, this is an other Grapheel project we proposed i.e. an agency for scientific transcription. Instead, mention how colour blind people can also benefit from IRIS even if they are not having problems with seeing the graph.
+
 8. Youtube videos
 	Take a screenshot of parts of the video
  
@@ -34,7 +43,9 @@ Tips on using IRIS:
 10. Web plug (in in the near future for all scientific content)
 If you are on a website, click our “Click-IT” button. The photo will be sent to our volunteers for a description.
 
-Tips on making the most out of IRIS features:
+Comment: Not ‘click IT’ but ‘Caption it’ even though this is not yet set in stone. Click IT was the name of the event in November ;).
+
+How to make the most out of IRIS?
 1. Choose well your subject category and difficulty level, 
 	That way we can ensure we match you with the best possible volunteer that can help you.
 
@@ -47,7 +58,7 @@ Tips on making the most out of IRIS features:
 4. Be specific on what you want to know
 	 
 5. Leave time for volunteers 
-	Due to the nature of the images being described, it takes a while for volunteers to describe them. Please give us time to give you a good response!
+	Due to the nature of the images being described, it may take a while for volunteers to describe them. Please plan your request accordingly to receive good responses!
  
 6. React to descriptions
 	If you are not completely happy with the description, then ask for something to be explained. If the volunteer gave you a bad response then decline the description and the image will be placed back on the image pool for the volunteers. If they wrote something inappropriate then flag the response. If you are happy with what you read then accept the response. 
@@ -56,7 +67,7 @@ Tips on making the most out of IRIS features:
 	Sometimes the images may be extremely lengthy to describe pixel by pixel and so some details may be left out. If you feel like the response is missing a few details, reply to the volunteer asking for extra details. 
 
 
-Tips on general community behaviour:
+How to interact with the community?
 
 1. Be polite, volunteers take time for free 
 	Say hi, thanks etc with best academic…
